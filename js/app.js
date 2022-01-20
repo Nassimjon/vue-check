@@ -1,8 +1,7 @@
 const counter = {
   data() {
     return {
-      counter: 1,
-      title: "Счетчик",
+      title: "note List",
     }
   }
 }
